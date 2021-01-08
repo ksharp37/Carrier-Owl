@@ -1,11 +1,25 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.GA'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        cluster: 1
+        galaxy evolution: 2
+        galaxy formation: 2
+        chemical evolution: 3
+        environmental effect: 3
+        environment: 3
+        green valley: 3
+        metallicity: 2
+        main seqense: 2
+        quenching: 3
+        recently quenched galaxy: 3
+        RQG: 3
+        post-starburst: 3
+        PSB: 3
+        red nuget: 3
+        
+        
 
 # 通知の閾値
 score_threshold: 0
